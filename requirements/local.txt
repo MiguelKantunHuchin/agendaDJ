@@ -1,0 +1,7 @@
+﻿asgiref
+Django==4.1
+django-model-utils
+psycopg2-binary
+pytz
+sqlparse
+Unipath
